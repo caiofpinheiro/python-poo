@@ -16,4 +16,5 @@ class Livro:
 livro = Livro("Bosta", "Merda", 12312, 45)
 livro2 = Livro("seila", "asda", 1212, 23)
 print(livro.exibir_dados())
+print("\n")
 print(livro2.exibir_dados())
